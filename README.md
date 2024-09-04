@@ -29,7 +29,7 @@ _Es una App Web de Gestión de Taller de Reparación Automotriz, que esta diseñ
 ### Para clonar el Proyecto:
 
 ```bash
-git clone https://github.com/No-Country/c14-13-t-node-react.git
+git clone https://github.com/InfVlad/Garage-Guest.git
 ```
 
 
@@ -37,7 +37,7 @@ git clone https://github.com/No-Country/c14-13-t-node-react.git
 
 _Una vez clonado el proyecto se debe ejecutar:_
 ```bash
-cd c14-13-t-node-react/
+cd Garage-Guest/
 cd client/
 npm install
 npm run prisma:generate
